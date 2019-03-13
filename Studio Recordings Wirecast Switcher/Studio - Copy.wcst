@@ -1,0 +1,255 @@
+<document unique_id="12e1a6f0-4aba-452f-8945-bea33ec126e8" version="6" os="windows" original_document_path="C:\Users\NYU Tandon Online\Videos\Studio Recordings\Studio.wcst">
+	<open_windows>
+		<vamWindowGlass frame="25,30,1355,670" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282928" vam_main_splitter="0.904569" eWindow_win_showcmd="3"/>
+	</open_windows>
+	<vam_state master_audio_shown="1000" show_preview_edit_panel="1" preview_shown="0" live_shown="1" live_preview_split_open_percent="0.75" transition_selected="0" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="-- SMOOTH --" live_preview_split_closed_percent="0.5"/>
+	<transition_data/>
+	<chroma_key_data/>
+	<advanced_output>
+		<output_list output_last_selected="a6a9a6c6-a5f1-4c12-9824-994c3fd2d550">
+			<output output_enabled="1" output_type="1" output_url="C:\Users\NYU Tandon Online\Videos\Studio Recordings\Studio.mp4" output_autoinfilename="1" output_branding="Record To Disk MP4 Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk - MP4" output_presetname="Default: 720p30 (4Mbps) x264 H.264" audio_output_track_mask="1" output_settings_complete="1" output_id="a6a9a6c6-a5f1-4c12-9824-994c3fd2d550" unique_id="6" output_guid="fee4f34a-d313-4053-8736-87f110cb43a3" flash_streaming_delay="0"/>
+			<output output_enabled="0" output_type="1" output_url="C:\Users\NYU Tandon Online\Videos\Studio Recordings\Studio.mov" output_autoinfilename="1" output_branding="Record To Disk MOV Brand" output_display_name="Record To Disk - MOV" output_display_group_name="Record To Disk - MOV" output_guid="dfd2f8dd-7fa4-4f2a-a26a-3cb124cb0b89" unique_id="7" audio_output_track_mask="1" output_presetname="1080p 29.97 High MOV" output_settings_complete="0" output_id="59a631fd-1496-438c-9e51-1bbb1cc05487" flash_streaming_delay="0"/>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="C:\Users\NYU Tandon Online\Videos" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" replay_program_replay_enabled="0" output_guid="af8c6935-2905-4cf4-a32e-35be3ddea628" output_presetname="af8c6935-2905-4cf4-a32e-35be3ddea628" output_type="6" output_enabled="1" unique_id="3"/>
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="Default: 720p30 (4Mbps) x264 H.264" show_in_gui="1" group="Flash">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1280" mo_height="720" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4000" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="1080p 29.97 High MOV" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="MJPEG" fps="29.97" compressed="1" timescale="2997" target_bit_rate="4050" profile="1751738216" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="mjpeg_high" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="LPCM" target_bit_rate="192" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="af8c6935-2905-4cf4-a32e-35be3ddea628" show_in_gui="0" group="Replay">
+			<movie format="Replay" output_system="replay">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="0" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="net.telestream.NDIOutput" show_in_gui="0" group="NDIOutput">
+			<movie format="NDIOutput" output_system="NDIOutput" output_sdk_preset_xml="ndiout_preset_token" output_sdk_guid="a55b9895-882b-446a-a7e4-75d09bf97625" is_dynamic="1">
+				<track type="1986618479" mo_width="100" mo_height="100" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+	</output_presets>
+	<iso_outputs>
+		<xml_tag>
+			<iso_output guid="4b5a6e75-a6d1-4865-8f9d-bb637935e901" output_display_name="Screen" output_enabled="1" video_source_id="Intensity Pro_1" audio_source_id="" output_folder="E:\Studio Recordings" output_filename="Studio-screen" video_bitrate="0" keyframe_interval="1" replay_ready="0" video_format="MJPEG-MOV" max_file_duration="0" iso_frame_drop_action="2" ISO_replay_update_hotkey_UUID="" ISO_replay_create_hotkey_UUID="" ISO_replay_markIn_hotkey_UUID="" ISO_replay_update_hotkey="None Assigned" ISO_replay_create_hotkey="None Assigned" ISO_replay_markIn_hotkey="None Assigned" video_quality="mjpeg_high" use_multi_channel_audio="0"/>
+			<iso_output guid="e3868bdb-8c86-498b-9bf3-499671d1281d" output_display_name="HoverCam" output_enabled="0" video_source_id="DeckLink Mini Recorder_3" audio_source_id="DeckLink Mini Recorder_2" output_folder="E:\Studio Recordings" output_filename="Studio-HoverCam" video_bitrate="0" keyframe_interval="1" replay_ready="0" video_format="MJPEG-MOV" max_file_duration="0" iso_frame_drop_action="2" ISO_replay_update_hotkey_UUID="" ISO_replay_create_hotkey_UUID="" ISO_replay_markIn_hotkey_UUID="" ISO_replay_update_hotkey="None Assigned" ISO_replay_create_hotkey="None Assigned" ISO_replay_markIn_hotkey="None Assigned" video_quality="mjpeg_high" use_multi_channel_audio="0"/>
+		</xml_tag>
+	</iso_outputs>
+	<multimonitor default_display="8099aeac023d4118ece20adaec3d9883">
+		<display id="dde158f5b19fe74338e259cbfadc783f"/>
+		<display id="8099aeac023d4118ece20adaec3d9883" layout="multimon_layout_1_slot" labels="multimon_labels_none">
+			<assignment slot="1" shot="__live-shot-id__"/>
+		</display>
+	</multimonitor>
+	<volume value="1"/>
+	<preview_volume value="1"/>
+	<auto_live value="1"/>
+	<flip_flop value="0"/>
+	<output_annotations/>
+	<transition_duration/>
+	<visual_style/>
+	<single_output/>
+	<media_directories import_images_default_dir="C:\Users\User\Pictures" import_music_default_dir="C:\Users\User\Music"/>
+	<layer_names/>
+	<layer_scales layer_0="0.5" layer_1="0.5" layer_2="0.5" layer_3="0.5" layer_4="0.5"/>
+	<layer_visible/>
+	<sections/>
+	<aspectRatio type="1098216515" custom_width="1280" custom_height="720"/>
+	<shot_key_map>
+		<key_map uuid="77caef52-82ce-4d26-95cd-e15e9bfb2d44">
+			<shot value="2e451e6b-dc73-42f0-99f1-913ccdc32bf6_shot"/>
+		</key_map>
+		<key_map uuid="aa894190-ff54-416d-b57e-9f67fef28687">
+			<shot value="0af925e8-c824-4512-8c0f-2bbe4ac71b5c_shot"/>
+		</key_map>
+		<key_map uuid="27319831-e764-4b76-97c1-480257719fff">
+			<shot value="46863fb5-1f5b-4cfa-97e6-52854814a619_shot"/>
+		</key_map>
+		<key_map uuid="fa9279b1-14f8-48a3-b2bf-0e0e1dabdda4">
+			<shot value="865b73db-a650-4265-af9b-7e7600dd3d5d_shot"/>
+		</key_map>
+		<key_map uuid="0edb7906-86b1-4213-88fd-93b35977eabd">
+			<shot value="abf299cb-0033-4843-8aa0-752e27bc56d3"/>
+		</key_map>
+		<key_map uuid="2bd97ad8-9421-4b54-a02e-0a3d6598ce4b">
+			<shot value="84f26a8b-ca7f-48ae-aa2c-d35fea174900_shot"/>
+		</key_map>
+		<key_map uuid="feebbf7f-b68a-4228-b2e8-3ec7b2a3639f">
+			<shot value="c6d5ffad-5ca3-4426-a3c7-4ab51c80ee69_shot"/>
+		</key_map>
+	</shot_key_map>
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="abf299cb-0033-4843-8aa0-752e27bc56d3"/>
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="30d0261a-8ee7-41a6-86dd-fafda68c70c4_shot"/>
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="1395cac1-d79a-4cf2-b85a-c80cf5d93b3e_shot"/>
+	</shotsLiveWhenSaved>
+	<source_sdk_settings/>
+	<social_media/>
+	<source_configurations>
+		<source unique_id="58277d8a-ff79-492a-9ed8-0807a8163d9b" factoryGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" manuallyAddedSource="1" localizedDisplayName="Solid Color" localizedGroupingName="Solid Color" hasAudio="0" hasVideo="1" groupGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" prettyname="White">
+			<xml_tag web_shutdown_when_inactive="0" widget_settings="{&quot;id&quot;:38,&quot;gradientEnabled&quot;:false,&quot;gradientType&quot;:0,&quot;gradientAngle&quot;:&quot;0&quot;,&quot;solidEnabled&quot;:true,&quot;colors&quot;:{&quot;backgroundColor&quot;:&quot;rgba(245, 245, 249, 0.97)&quot;,&quot;gradientColor1&quot;:&quot;#nandanan&quot;,&quot;gradientColor2&quot;:&quot;#000000&quot;},&quot;_runtime&quot;:{&quot;geometry&quot;:{&quot;width&quot;:488,&quot;height&quot;:237}}}" isGameshow="0" isUstream="0" web_width="1920" web_height="1080" title="Solid Color" web_url="file://C:\Program Files\Telestream\Wirecast\eva_plugins\Sources\WidgetSDK\solid_color/solid-color.html" web_transparent="1" web_override_css=""/>
+		</source>
+	</source_configurations>
+	<document_thumbnail thumbnail="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"/>
+	<game_overlay_position/>
+	<screename/>
+	<assets>
+		<asset name="Clear Layer" unique_id="16531c88-db48-42ac-bc5b-a8877e08cfc3_shot" type="shot" media-type="9" sort_on_text="0" created_for_layer="5" blank_shot="1" visible="1" vam_state="1"/>
+		<asset name="Clear Layer" unique_id="30d0261a-8ee7-41a6-86dd-fafda68c70c4_shot" type="shot" media-type="9" sort_on_overlay="0" created_for_layer="1" blank_shot="1" visible="1" veil_track_count="0" vam_state="7" alpha_track_count="0" audio_tracks="0" video_tracks="0" still_image_tracks="0"/>
+		<asset name="Clear Layer" unique_id="1395cac1-d79a-4cf2-b85a-c80cf5d93b3e_shot" type="shot" media-type="9" veil_track_count="0" created_for_layer="2" blank_shot="1" visible="0" vam_state="7" alpha_track_count="0" audio_tracks="0" video_tracks="0" still_image_tracks="0"/>
+		<asset name="Clear Layer" unique_id="2d90a3cd-96a4-43c5-9df7-262e15f2005c_shot" type="shot" media-type="9" vam_state="1" created_for_layer="3" blank_shot="1" visible="0"/>
+		<asset name="Clear Layer" unique_id="c021a054-b004-42d6-a276-031ab8f940e2_shot" type="shot" media-type="9" vam_state="1" created_for_layer="4" blank_shot="1" visible="0"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_2" name="DeckLink Mini Recorder (Top)" video_tracks="1" audio_tracks="1" alpha_track_count="1" short_name="DeckLink Mi...ecorder (1)" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" square_pixel_width="1920" square_pixel_height="1080" raster_type="0"/>
+		<asset name="Front + Screen" unique_id="0af925e8-c824-4512-8c0f-2bbe4ac71b5c_shot" type="shot" media-type="9" sort_on_text="2" visible="1" still_image_tracks="0" audio_tracks="2" video_tracks="2" veil_track_count="0" created_for_layer="5" alpha_track_count="2" vam_state="8"/>
+		<asset name="HoverCam" unique_id="865b73db-a650-4265-af9b-7e7600dd3d5d_shot" type="shot" media-type="9" sort_on_text="4" created_for_layer="5" alpha_track_count="1" video_tracks="2" audio_tracks="1" veil_track_count="0" still_image_tracks="0" visible="1" vam_state="8"/>
+		<asset name="Front + HoverCam" unique_id="84f26a8b-ca7f-48ae-aa2c-d35fea174900_shot" type="shot" media-type="9" sort_on_text="6" veil_track_count="0" audio_tracks="1" video_tracks="2" alpha_track_count="1" still_image_tracks="0" created_for_layer="5" visible="1" vam_state="8"/>
+		<asset name="Screen" unique_id="46863fb5-1f5b-4cfa-97e6-52854814a619_shot" type="shot" media-type="9" sort_on_text="3" veil_track_count="0" audio_tracks="2" still_image_tracks="0" video_tracks="2" alpha_track_count="2" created_for_layer="5" visible="1" vam_state="8"/>
+		<asset name="Front" unique_id="2e451e6b-dc73-42f0-99f1-913ccdc32bf6_shot" type="shot" media-type="9" vam_state="8" still_image_tracks="0" veil_track_count="0" alpha_track_count="1" audio_tracks="1" video_tracks="1" sort_on_text="1" visible="1" created_for_layer="5" sort_on_overlay="1"/>
+		<asset name="Front + Screen 2" unique_id="abf299cb-0033-4843-8aa0-752e27bc56d3" type="shot" media-type="9" sort_on_text="5" visible="1" still_image_tracks="0" alpha_track_count="3" veil_track_count="0" video_tracks="3" created_for_layer="5" audio_tracks="2" vam_state="14"/>
+		<asset media-type="2" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="58277d8a-ff79-492a-9ed8-0807a8163d9b" name="White" video_tracks="1" audio_tracks="0" alpha_track_count="1" square_pixel_height="1080" sourceGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" raster_type="1380401729" square_pixel_width="1920"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_1" name="DeckLink Mini Recorder (Bottom)" video_tracks="1" audio_tracks="1" alpha_track_count="1" square_pixel_width="1920" square_pixel_height="1080" raster_type="0" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD"/>
+		<asset type="capture" unique_id="USB Video Device::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;7d4328b&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" name="USB Video Device" guid="\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;7d4328b&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" url="USB Video Device" excluded="0" format="video" video_tracks="1" media-type="2" raster_type="2037741171" previous_square_pixel_width="1280" square_pixel_width="1280" isusb="1" previous_square_pixel_height="720" square_pixel_height="720"/>
+		<asset type="capture" unique_id="XI100DUSB-SDI Video::\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;14ed52e1&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" name="XI100DUSB-SDI Video" guid="\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;14ed52e1&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" url="XI100DUSB-SDI Video" excluded="0" format="video" video_tracks="1" media-type="2" square_pixel_height="1080" raster_type="2037741171" square_pixel_width="1920" isusb="1"/>
+		<asset name="XI100DUSB-SDI Video" unique_id="c6d5ffad-5ca3-4426-a3c7-4ab51c80ee69_shot" type="shot" media-type="9" vam_state="8" video_tracks="2" still_image_tracks="0" veil_track_count="0" alpha_track_count="1" audio_tracks="1" created_for_layer="5" visible="1"/>
+		<asset name="Copy of Front + Screen 2" unique_id="b998f3bd-332e-4078-86d6-822edc13bebd" type="shot" media-type="9" sort_on_text="5" visible="1" alpha_track_count="2" video_tracks="3" audio_tracks="1" veil_track_count="0" created_for_layer="5" still_image_tracks="0" vam_state="8"/>
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="DeckLink Mini Recorder_2" timestamp="1067" ck_active="0" ck_key_cb="98.9007" ck_key_cr="91.2211" ck_key_cutoff="1.2" ck_edge_blend_active="1" ck_luma_clip_hi="255" ck_black_clip="50" ck_source_encoding="1498764865" ck_source_encoding_width="0" ck_user_color="1" ck_configured="1" chroma_config_id="647" ck_source_user_color_value="100,200,100"/>
+		<chroma_key_configuration unique_id="USB Video Device::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;7d4328b&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" ck_key_cb="98.9007" ck_key_cr="91.2211" ck_user_color="1" ck_configured="1" ck_source_user_color_value="100,200,100" timestamp="1" chroma_config_id="4552"/>
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="16531c88-db48-42ac-bc5b-a8877e08cfc3_shot"/>
+		<shot event_type="2" unique_id="30d0261a-8ee7-41a6-86dd-fafda68c70c4_shot"/>
+		<shot event_type="2" unique_id="1395cac1-d79a-4cf2-b85a-c80cf5d93b3e_shot"/>
+		<shot event_type="2" unique_id="2d90a3cd-96a4-43c5-9df7-262e15f2005c_shot"/>
+		<shot event_type="2" unique_id="c021a054-b004-42d6-a276-031ab8f940e2_shot"/>
+		<shot event_type="2" unique_id="0af925e8-c824-4512-8c0f-2bbe4ac71b5c_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_1" obj_scale="1.005,1.005" scale_ratio="1" ro_user_scale="0.67,0.67">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" chroma_config_id="647" unique_id="DeckLink Mini Recorder_2" obj_scale="0.399532,0.399532" scale_ratio="1" obj_pos="2.16,-1.44" ro_user_scale="0.266355,0.266355">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="7" zorder="-10000000" unique_id="chroma key"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="865b73db-a650-4265-af9b-7e7600dd3d5d_shot">
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.666667,0.666667" obj_trans="0" unique_id="DeckLink Mini Recorder_2" obj_scale="1,1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="15" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" volume="0" unique_id="USB Video Device::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;7d4328b&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" scale_ratio="1">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="84f26a8b-ca7f-48ae-aa2c-d35fea174900_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" scale_ratio="1" unique_id="USB Video Device::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;7d4328b&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="10">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" chroma_config_id="647" ro_user_scale="0.67,0.67" unique_id="DeckLink Mini Recorder_2" obj_scale="1.005,0.847969" scale_ratio="1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="7" zorder="-10000000" unique_id="chroma key"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="46863fb5-1f5b-4cfa-97e6-52854814a619_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" obj_trans="0" unique_id="DeckLink Mini Recorder_2" ro_user_scale="0.666667,0.666667" obj_scale="1,1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" scale_ratio="1" unique_id="DeckLink Mini Recorder_1" ro_user_scale="0.67,0.67" obj_scale="1.005,1.005">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="2e451e6b-dc73-42f0-99f1-913ccdc32bf6_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2" obj_scale="1,1" ro_user_scale="0.666667,0.666667" chroma_config_id="647">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="abf299cb-0033-4843-8aa0-752e27bc56d3">
+			<event event_type="4" unique_id="one_quad" zorder="5">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="58277d8a-ff79-492a-9ed8-0807a8163d9b" ro_user_scale="0.666667,0.666667" obj_scale="1,1">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="10">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_1" obj_scale="0.75012,1.00016" scale_ratio="1" obj_pos="-0.9,0" ro_user_scale="0.666773,0.666773" obj_crop_rect="240,0,240,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="15">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" chroma_config_id="647" unique_id="DeckLink Mini Recorder_2" obj_pos="2.36812,0" scale_ratio="1" obj_scale="1.005,1.005" ro_user_scale="0.67,0.67">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="7" zorder="-10000000" unique_id="chroma key"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="c6d5ffad-5ca3-4426-a3c7-4ab51c80ee69_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.666667,0.666667" obj_trans="0" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" obj_scale="1.5,1.26563" scale_ratio="1" unique_id="XI100DUSB-SDI Video::\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;14ed52e1&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="b998f3bd-332e-4078-86d6-822edc13bebd">
+			<event event_type="4" unique_id="one_quad" zorder="5">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="58277d8a-ff79-492a-9ed8-0807a8163d9b" ro_user_scale="0.666667,0.666667" obj_scale="1,1">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="10">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_1" obj_scale="0.75012,1.00016" scale_ratio="1" obj_pos="-0.9,0" ro_user_scale="0.666773,0.666773" obj_crop_rect="240,0,240,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" unique_id="one_quad" zorder="15">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" chroma_config_id="647" unique_id="XI100DUSB-SDI Video::\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;14ed52e1&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" obj_pos="2.36812,0" scale_ratio="1" ro_user_scale="0.666667,0.666667">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="7" zorder="-10000000" unique_id="chroma key"/>
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>

@@ -1,0 +1,181 @@
+<document version="5" os="windows" original_document_path="E:\Studio Recordings\Studio - EPOLY-LVL-PC-2.wcst">
+	<open_windows>
+		<vamWindowGlass frame="-8,-8,1928,1168" asset_icon_scale="0.5" selected_layer="1836282928" vam_main_splitter="0.652291" />
+	</open_windows>
+	<vam_state master_audio_shown="1000" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" master_audio_monitor="1" transition_selected="0" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output>
+		<output_list output_last_selected="ca8701cf-2232-467c-804b-83ba79e6789c">
+			<output output_url="E:\Studio Recordings\Studio.mov" output_autoinfilename="1" output_type="1" output_branding="Record To Disk Brand QT" output_display_name="Record To Disk - Quicktime" output_display_group_name="Record To Disk" output_guid="91f1a906-152f-429f-8dc1-43c1f54b62b8" unique_id="2" output_presetname="QuickTime MP4 1920x1080 29.97 fps" output_enabled="1" output_settings_complete="1" output_id="ca8701cf-2232-467c-804b-83ba79e6789c" />
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="QuickTime MP4 1920x1080 29.97 fps">
+			<movie format="QuickTime" output_system="">
+				<track mo_width="1920" mo_height="1080" type="1986618479" colourspace="1919377952" mo_enabled="1" codecname="MPEG-4 Video" fps="30" compressed="1" timescale="3000" target_bit_rate="0" profile="1751738216" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" qt_quality="1024" qt_lock_ar="0" qt_codec_4cc="1836070006" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG 4 Low Complexity AAC" target_bit_rate="0" timescale="44100" compressed="1" qt_codec_4cc="1836069985" qt_specific="0000000c66726d616d7034610000000c6d703461000000000000003365736473000000000380808022000000048080801440150018000001f4000001f400058080800212100680808001020000000c73726371400000000000000c61636266000000000000000800000000" />
+			</movie>
+		</preset>
+	</output_presets>
+	<volume value="1" />
+	<auto_live value="1" />
+	<flip_flop value="0" />
+	<output_annotations />
+	<transition_duration />
+	<visual_style />
+	<single_output />
+	<media_directories />
+	<layer_names />
+	<layer_scales />
+	<layer_visible />
+	<sections />
+	<aspectRatio />
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="6f9915b1-558e-40f9-bd0e-3897c4e7f695_shot" />
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="4cdc656f-9b63-4486-b150-27bd61db5373_shot" />
+	</shotsLiveWhenSaved>
+	<source_sdk_settings>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-1">
+			<settings unique_id="1" output_guid="fa23a850-6bd7-441d-898c-cba4d8edaf32">
+				<parameter name="Type" value="0" />
+				<parameter name="window" value="" />
+				<parameter name="class" value="" />
+				<parameter name="cursor" value="true" />
+				<parameter name="process" value="" />
+				<parameter name="monitor" value="0" />
+				<parameter name="fps" value="0" />
+				<parameter name="audio" value="false" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="cropLeft" value="0" />
+				<parameter name="cropRight" value="0" />
+				<parameter name="cropTop" value="0" />
+				<parameter name="cropBottom" value="0" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-2">
+			<settings>
+				<parameter name="Type" value="0" />
+				<parameter name="window" value="" />
+				<parameter name="class" value="" />
+				<parameter name="cursor" value="false" />
+				<parameter name="process" value="" />
+				<parameter name="monitor" value="0" />
+				<parameter name="fps" value="4" />
+				<parameter name="audio" value="false" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="cropLeft" value="0" />
+				<parameter name="cropRight" value="0" />
+				<parameter name="cropTop" value="0" />
+				<parameter name="cropBottom" value="0" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+	</source_sdk_settings>
+	<assets>
+		<asset name="Blank Shot" unique_id="66b03457-9c32-4750-8f3c-5a318509b573_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1" visible="1" sort_on_text="0" />
+		<asset name="Blank Shot" unique_id="ffa18f65-6679-48d8-9a22-608b5401f831_shot" type="shot" media-type="9" vam_state="7" created_for_layer="1" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="4cdc656f-9b63-4486-b150-27bd61db5373_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="25a32d96-c5a1-4179-9026-4e9fd10dce70_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="f1b35cb2-1fe2-4440-94cc-34da73a5fe02_shot" type="shot" media-type="9" vam_state="7" created_for_layer="4" blank_shot="1" visible="1" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_2" name="DeckLink Mini Recorder_2" video_tracks="1" audio_tracks="1" square_pixel_height="1080" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" square_pixel_width="1920" visible="1" />
+		<asset name="1 - DeckLink Mini Recorder_1" unique_id="39e94a34-fc35-43ff-b5e5-3e2400e0f2ac_shot" type="shot" media-type="9" vam_state="8" veil_track_count="0" alpha_track_count="0" sort_on_text="1" video_tracks="2" still_image_tracks="0" created_for_layer="5" visible="1" audio_tracks="2" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_3" name="DeckLink Mini Recorder_1" video_tracks="1" audio_tracks="1" square_pixel_height="1080" square_pixel_width="1920" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" visible="1" />
+		<asset name="DeckLink Mini Recorder_2" unique_id="fee7e19f-c5d7-4ea5-a1c3-b8321396c3fc_shot" type="shot" media-type="9" vam_state="8" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1" sort_on_text="5" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Intensity Pro_1" name="Intensity Pro_1" video_tracks="1" audio_tracks="1" square_pixel_height="1080" square_pixel_width="1920" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" visible="1" />
+		<asset name="2 - Intensity Pro_1" unique_id="6f9915b1-558e-40f9-bd0e-3897c4e7f695_shot" type="shot" media-type="9" vam_state="14" still_image_tracks="0" video_tracks="3" audio_tracks="3" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1" sort_on_text="2" />
+		<asset name="3 - Mix" unique_id="7d9306a8-1a50-45e1-a896-590c82b668de_shot" type="shot" media-type="9" sort_on_text="3" still_image_tracks="0" veil_track_count="0" video_tracks="3" audio_tracks="3" alpha_track_count="0" created_for_layer="5" visible="1" vam_state="14" />
+		<asset name="PPT" unique_id="c4fd8d88-b058-4630-97a8-395072774e06" type="shot" media-type="9" sort_on_text="4" alpha_track_count="0" video_tracks="2" still_image_tracks="0" audio_tracks="2" veil_track_count="0" created_for_layer="5" visible="1" vam_state="8" />
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="Intensity Pro_1" chroma_config_id="716" timestamp="20" />
+		<chroma_key_configuration unique_id="DeckLink Mini Recorder_3" chroma_config_id="717" />
+		<chroma_key_configuration unique_id="DeckLink Mini Recorder_2" timestamp="37" ck_source_encoding="876229170" ck_key_cb="87" ck_key_cr="78" ck_key_cutoff="1.5" ck_edge_blend_active="1" ck_luma_clip_hi="255" ck_black_clip="0" chroma_config_id="718" ck_source_encoding_width="0" ck_user_color="1" ck_configured="1" ck_active="1" />
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="66b03457-9c32-4750-8f3c-5a318509b573_shot" />
+		<shot event_type="2" unique_id="ffa18f65-6679-48d8-9a22-608b5401f831_shot" />
+		<shot event_type="2" unique_id="4cdc656f-9b63-4486-b150-27bd61db5373_shot" />
+		<shot event_type="2" unique_id="25a32d96-c5a1-4179-9026-4e9fd10dce70_shot" />
+		<shot event_type="2" unique_id="f1b35cb2-1fe2-4440-94cc-34da73a5fe02_shot" />
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="39e94a34-fc35-43ff-b5e5-3e2400e0f2ac_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_trans="0" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" default_action="2" play_flags="6" />
+				</event>
+			</event>
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2" volume="0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="fee7e19f-c5d7-4ea5-a1c3-b8321396c3fc_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="6f9915b1-558e-40f9-bd0e-3897c4e7f695_shot" virtualsetzoom="0">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="Intensity Pro_1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" default_action="2" play_flags="6" />
+				</event>
+			</event>
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_trans="0" unique_id="DeckLink Mini Recorder_3">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_flags="6" default_action="2" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_flags="6" default_action="2" />
+				</event>
+			</event>
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_trans="0" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="7d9306a8-1a50-45e1-a896-590c82b668de_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_trans="0" unique_id="DeckLink Mini Recorder_3">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+			<event event_type="4" zorder="5" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="Intensity Pro_1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" chroma_config_id="718" unique_id="DeckLink Mini Recorder_2" obj_scale="0.3625,0.3625" obj_pos="2.4844,-1.59375" ro_user_scale="0.3625,0.3625">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+					<event event_type="7" zorder="-10000000" unique_id="chroma key" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="c4fd8d88-b058-4630-97a8-395072774e06" virtualsetzoom="0">
+			<event event_type="4" zorder="5" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" obj_scale="0.906771,1" unique_id="Intensity Pro_1" obj_pos="-0.965275,-0.01875" ro_respect_aspect_ratio="1" obj_crop_rect="0,0,179,0" obj_rot_off="-0.335625,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" chroma_config_id="718" unique_id="DeckLink Mini Recorder_2" obj_scale="0.7375,0.7375" obj_pos="1.23429,-0.6375" ro_user_scale="0.7375,0.7375">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="7" zorder="-10000000" unique_id="chroma key" />
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>

@@ -1,0 +1,14 @@
+This folder contains a copy of the contents of Wirecast Recordings folder synced via Synology Cloud Station. The "Wirecast" folder contains a LuaMacros application and accompanying "wirecast EPOLY_RENDER.lua" (wirecast.lua for EPOLY-LVL-PC-2) script that receives input from the wireless numerical keypad production switcher and and simulates pressing keyboard shortcuts that control Wirecast functions as labeled on the switcher.
+
+
+
+For the Start/Stop button to control both Wirecast and the cameras attached to the Arduino and connected to the PC, LuaMacros sends a Ctrl+K signal to Wirecast and also sends a "1" signal over the USB serial bus to the Arduino connected to the USB serial port (COM7 for EPOLY-LVL-PC-2, COM3 for EPOLY_RENDER). The connected Arduino receives the signal and toggles an internal transistor in both of the modified 2.5mm camera remote controllers connected to it. The red LED attached is also toggled to show the signal was sent, but does not provide accurate feedback regarding whether or not the camera(s) or Wirecast is actually recording.
+
+The "remote" folder contains a remote.ino file which opens in Arduino and is used to program the Arduino microcontroller to listen for serial input and control the remotes and LED.
+
+Wirecast Production Switcher.lnk is a Windows shortcut that should automatically start on startup (copied to the startup folder in Windows 10 - C:\Users\NYU Tandon Online\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) and automatically launch "wirecast EPOLY_RENDER.lua" script for the EPOLY_RENDER PC. It hides itself in the Notification Area on launch. (Wirecast Production Switcher - EPOLY-LVL-PC-2.lnk for the other computer).
+
+
+Email earlco@nyu.edu if you need help modifying or debugging this system.
+
+The various .wcst files are different configurations of Wirecast depending on which computer and which course is being recorded. Only Studio.wcst and Studio - EPOLY-LVL-PC-2.wcst.

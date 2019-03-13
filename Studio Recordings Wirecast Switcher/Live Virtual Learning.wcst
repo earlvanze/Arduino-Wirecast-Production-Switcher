@@ -1,0 +1,127 @@
+<document version="5" os="windows" original_document_path="C:\Users\John\Documents\Live Virtual Learning.wcst">
+	<open_windows>
+		<vamWindowGlass frame="-8,-8,1928,1048" asset_icon_scale="0.5" selected_layer="1836282928" vam_main_splitter="0.633803" />
+	</open_windows>
+	<vam_state master_audio_shown="1010" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" master_audio_monitor="0" preview_shown="1" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output>
+		<output_list output_last_selected="c8612a1f-4a83-405b-89bd-fcd5913e9c0d">
+			<output output_enabled="0" output_type="2" output_transport="7" output_url="rtmp://54.210.11.119/live" output_location="test" output_branding="RTMP Server" output_display_name="RTMP Server" output_display_group_name="RTMP Flash Server" output_guid="96154cd8-2b22-4f79-87e5-63a17cb4db9f" unique_id="1" output_presetname="H.264 720p 16:9 (1280x720)" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_settings_complete="0" output_id="3672bc6e-5549-4c1e-94b5-cbd2f36b9057" />
+			<output output_type="2" output_branding="mogulus" output_display_group_name="Original Livestream" output_display_name="epolylvl_720" output_guid="f0b81818-83d4-42ee-946d-0b32def8beae" unique_id="3" output_presetname="H.264 720p 16:9 (1280x720)" mogulus_channel="epolylvl4" mogulus_isAutoLive="1" output_username="nyuepoly" output_password="livelearning" output_location="WirecastSQLZ4S" output_url="rtmp://publish.livestream.com:1935/mogulus/epolylvl4/username=nyuepoly/password=livelearning/isAutoLive=true/autoVOD=true" output_enabled="0" output_user_name="epolylvl_720" output_settings_complete="0" output_id="c8612a1f-4a83-405b-89bd-fcd5913e9c0d" />
+			<output output_type="2" output_branding="mogulus" output_display_group_name="Original Livestream" output_display_name="epolylvl_480" output_guid="bfb00385-3ff1-4aaf-aa95-c592d2e0234f" unique_id="4" output_presetname="H.264 480p 16:9 (854x480)" mogulus_channel="epolylvl" mogulus_isAutoLive="1" output_username="nyuepoly" output_password="livelearning" output_location="Wirecast15MFB6" output_url="rtmp://publish.livestream.com:1935/mogulus/epolylvl/username=nyuepoly/password=livelearning/isAutoLive=true/autoVOD=true" output_enabled="0" output_user_name="epolylvl_480" output_settings_complete="0" output_id="ff0484a6-f31f-49e2-af67-fa9220778b94" />
+			<output output_enabled="1" output_type="1" output_url="D:\LVL.mp4" output_autoinfilename="1" output_branding="Record To Disk Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk" output_guid="0e933cba-ff33-4489-871b-6c37537f94d0" unique_id="5" output_presetname="H.264 720p 16:9 (1280x720)" output_settings_complete="1" output_id="c36017ba-99ac-475d-bb3f-609589591309" />
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="H.264 720p 16:9 (1280x720)">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="2025" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="H.264 480p 16:9 (854x480)">
+			<movie format="Flash" output_system="">
+				<track mo_width="854" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="1150" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
+			</movie>
+		</preset>
+	</output_presets>
+	<volume value="1" />
+	<auto_live value="0" />
+	<flip_flop value="0" />
+	<output_annotations />
+	<transition_duration />
+	<visual_style />
+	<single_output />
+	<media_directories />
+	<layer_names />
+	<layer_scales />
+	<sections />
+	<aspectRatio />
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="85d73715-5f37-4d4a-9c27-0f065ef1fa18_shot" />
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="ad6f9727-c2df-417a-9e37-889d15182126_shot" />
+	</shotsLiveWhenSaved>
+	<source_sdk_settings>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-1">
+			<settings unique_id="1" output_guid="79a06759-a575-4a27-867b-161807528163">
+				<parameter name="Type" value="0" />
+				<parameter name="window" value="" />
+				<parameter name="class" value="" />
+				<parameter name="cursor" value="true" />
+				<parameter name="process" value="" />
+				<parameter name="monitor" value="0" />
+				<parameter name="fps" value="0" />
+				<parameter name="audio" value="false" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="cropLeft" value="0" />
+				<parameter name="cropRight" value="0" />
+				<parameter name="cropTop" value="0" />
+				<parameter name="cropBottom" value="0" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-2">
+			<settings>
+				<parameter name="Type" value="0" />
+				<parameter name="window" value="" />
+				<parameter name="class" value="" />
+				<parameter name="cursor" value="true" />
+				<parameter name="process" value="" />
+				<parameter name="monitor" value="1" />
+				<parameter name="fps" value="0" />
+				<parameter name="audio" value="false" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="cropLeft" value="0" />
+				<parameter name="cropRight" value="0" />
+				<parameter name="cropTop" value="0" />
+				<parameter name="cropBottom" value="0" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+	</source_sdk_settings>
+	<assets>
+		<asset name="Blank Shot" unique_id="f929a651-4918-49cf-b7ac-c59ecd54f975_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1" visible="1" sort_on_text="0" />
+		<asset name="Blank Shot" unique_id="2a5c2d97-a43e-4ff4-b247-d0af00c6732c_shot" type="shot" media-type="9" vam_state="7" created_for_layer="1" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="ad6f9727-c2df-417a-9e37-889d15182126_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="2a7269c2-78bb-4b01-b17e-6009da7982fe_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="f5b830c6-80ea-4fc3-9765-c8b8a7c23fff_shot" type="shot" media-type="9" vam_state="7" created_for_layer="4" blank_shot="1" visible="1" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-capture~pc-capture-2" name="Extended Monitor" video_tracks="1" audio_tracks="1" sourceGUID="558dc745-533e-470d-a198-46eb1dd7c22c" square_pixel_height="720" square_pixel_width="1280" />
+		<asset name="Extended Monitor" unique_id="69201795-c164-41c3-b436-d8dc0e593d4e_shot" type="shot" media-type="9" vam_state="8" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1" sort_on_text="1" />
+		<asset type="capture" unique_id="XI100DUSB-HDMI Video::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;26e90bc5&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" name="XI100DUSB-HDMI Video" guid="\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;26e90bc5&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" url="XI100DUSB-HDMI Video" excluded="0" format="video" video_tracks="1" media-type="2" isusb="1" square_pixel_height="1080" square_pixel_width="1920" />
+		<asset name="XI100DUSB-HDMI Video" unique_id="85d73715-5f37-4d4a-9c27-0f065ef1fa18_shot" type="shot" media-type="9" vam_state="6" audio_tracks="0" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1" sort_on_text="2" />
+		<asset type="capture" unique_id="XI100DUSB-SDI Video::\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;1bb4fd7a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" name="XI100DUSB-SDI Video" guid="\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;1bb4fd7a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" url="XI100DUSB-SDI Video" excluded="0" format="video" video_tracks="1" media-type="2" isusb="1" square_pixel_height="1080" square_pixel_width="1920" />
+		<asset name="XI100DUSB-SDI Video" unique_id="f1c7ef63-d5c9-4515-a74a-33a9ea025b1d_shot" type="shot" media-type="9" vam_state="0" audio_tracks="0" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1" sort_on_text="3" />
+	</assets>
+	<xml_tag />
+	<shots>
+		<shot event_type="2" unique_id="f929a651-4918-49cf-b7ac-c59ecd54f975_shot" />
+		<shot event_type="2" unique_id="2a5c2d97-a43e-4ff4-b247-d0af00c6732c_shot" />
+		<shot event_type="2" unique_id="ad6f9727-c2df-417a-9e37-889d15182126_shot" />
+		<shot event_type="2" unique_id="2a7269c2-78bb-4b01-b17e-6009da7982fe_shot" />
+		<shot event_type="2" unique_id="f5b830c6-80ea-4fc3-9765-c8b8a7c23fff_shot" />
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="69201795-c164-41c3-b436-d8dc0e593d4e_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="pc-capture~pc-capture-2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="85d73715-5f37-4d4a-9c27-0f065ef1fa18_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="XI100DUSB-HDMI Video::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#6&amp;26e90bc5&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="f1c7ef63-d5c9-4515-a74a-33a9ea025b1d_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="XI100DUSB-SDI Video::\\?\usb#vid_2935&amp;pid_0002&amp;mi_00#6&amp;1bb4fd7a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>

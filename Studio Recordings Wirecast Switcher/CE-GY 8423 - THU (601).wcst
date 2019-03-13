@@ -1,0 +1,165 @@
+<document version="5" os="windows" original_document_path="C:\Users\User\Desktop\CE-GY 6023 - WED.wcst">
+	<open_windows>
+		<vamWindowGlass frame="1,1,1919,1159" asset_icon_scale="0.5" selected_layer="1836282928" vam_main_splitter="0.649635" />
+	</open_windows>
+	<window_info>
+		<window frame="300,50,923,653" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="538:b54645ad-bd7a-4a4d-9811-1b3949265a10_shot" asset_id="b54645ad-bd7a-4a4d-9811-1b3949265a10_shot" />
+		<window frame="300,50,923,653" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="538:b171e13f-275d-42d1-97bd-6dc989a93735_shot" asset_id="b171e13f-275d-42d1-97bd-6dc989a93735_shot" />
+		<window frame="300,50,923,653" media_asset_icon_scale="0.4" window_class="1933927540" window_info_unique_id="538:8e765070-581b-41e1-b157-44e1c64b83d9" asset_id="8e765070-581b-41e1-b157-44e1c64b83d9" />
+	</window_info>
+	<vam_state master_audio_shown="1000" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" master_audio_monitor="1" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output>
+		<output_list output_last_selected="fb379a3c-0728-4972-a880-66865df35ca6">
+			<output output_enabled="0" output_type="1" output_url="E:\CE-GY 6073\CE-GY 6073 Module.mp4" output_autoinfilename="1" output_branding="Record To Disk Brand" output_display_name="CE-GY 6073" output_display_group_name="Record To Disk" output_presetname="Civil Engineering" output_settings_complete="0" output_id="c3b095d5-f24b-4258-b7ca-bb51930649ce" unique_id="2" output_guid="7e511533-0e17-498a-bb2f-485d71494d8c" output_user_name="CE-GY 6073" />
+			<output output_enabled="1" output_type="1" output_url="E:\CE-GY 6023\CE-GY 6023 Module.mp4" output_autoinfilename="1" output_branding="Record To Disk Brand" output_display_name="CE-GY 6023" output_display_group_name="Record To Disk" output_presetname="Civil Engineering" output_settings_complete="1" output_id="fb379a3c-0728-4972-a880-66865df35ca6" unique_id="4" output_guid="5dbc8002-1eb1-4e9b-b5e2-d856778cab33" output_user_name="CE-GY 6023" />
+			<output output_enabled="0" output_type="1" output_url="E:\CE-GY 8493\CE-GY 8493 Module.mp4" output_autoinfilename="1" output_branding="Record To Disk Brand" output_display_name="CE-GY 8493" output_display_group_name="Record To Disk" output_presetname="Civil Engineering" output_settings_complete="0" output_id="8d4d415e-2dc2-4f33-950e-ab0636993ec6" unique_id="5" output_guid="973fdf69-c994-4cc0-a09f-74d7722286ea" output_user_name="CE-GY 8493" />
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="Civil Engineering">
+			<movie format="Flash" output_system="">
+				<track mo_width="1920" mo_height="1080" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4000" profile="1751738216" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="0" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100" />
+			</movie>
+		</preset>
+	</output_presets>
+	<volume value="0.399113" />
+	<auto_live value="0" />
+	<flip_flop value="0" />
+	<output_annotations />
+	<transition_duration />
+	<visual_style />
+	<single_output />
+	<media_directories />
+	<layer_names />
+	<layer_scales />
+	<layer_visible />
+	<sections />
+	<aspectRatio type="825243696" />
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="b54645ad-bd7a-4a4d-9811-1b3949265a10_shot" />
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="749afe53-6fe9-4682-ab1d-1cacd185cf0c_shot" />
+	</shotsLiveWhenSaved>
+	<source_sdk_settings>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-2">
+			<settings unique_id="1" output_guid="7b4d6a45-a5f6-4496-aa5d-ec374848587d">
+				<parameter name="Type" value="0" />
+				<parameter name="window" value="NYU Classes : My Workspace : Home - Google Chrome" />
+				<parameter name="class" value="Chrome_WidgetWin_1" />
+				<parameter name="cursor" value="true" />
+				<parameter name="process" value="chrome.exe" />
+				<parameter name="monitor" value="1" />
+				<parameter name="fps" value="1" />
+				<parameter name="audio" value="false" />
+				<parameter name="audioDevice" value="" />
+				<parameter name="cropLeft" value="0" />
+				<parameter name="cropRight" value="0" />
+				<parameter name="cropTop" value="0" />
+				<parameter name="cropBottom" value="0" />
+				<parameter name="disable" value="false" />
+			</settings>
+		</xml_tag>
+	</source_sdk_settings>
+	<assets>
+		<asset name="Blank Shot" unique_id="8c46ae8b-1984-4db4-834b-0ce99b64b6ac_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1" visible="1" sort_on_text="0" />
+		<asset name="Blank Shot" unique_id="40935058-c107-4163-89a9-04a1f62487b5_shot" type="shot" media-type="9" vam_state="7" created_for_layer="1" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="749afe53-6fe9-4682-ab1d-1cacd185cf0c_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="2ca7d0ed-acf5-4210-96cc-66a15b1171cb_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" visible="1" />
+		<asset name="Blank Shot" unique_id="424340f6-92a6-41d7-a7b8-ac88767acfd6_shot" type="shot" media-type="9" vam_state="7" created_for_layer="4" blank_shot="1" visible="1" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Intensity Pro_1" name="Intensity Pro_1" video_tracks="1" audio_tracks="1" square_pixel_height="1080" square_pixel_width="1920" visible="1" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" />
+		<asset name="MIX - PROF" unique_id="ea48db98-d1e3-4be7-b391-3f3075b10ecc_shot" type="shot" media-type="9" vam_state="8" veil_track_count="0" sort_on_text="1" alpha_track_count="0" still_image_tracks="0" audio_tracks="2" created_for_layer="5" visible="1" video_tracks="2" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-capture~pc-capture-2" name="Local Desktop Presenter 1" video_tracks="1" audio_tracks="1" square_pixel_height="900" visible="1" square_pixel_width="1600" sourceGUID="bf8165ae-3480-4357-adf0-3cb8a9aaed63" />
+		<asset name="MIX - PP" unique_id="8e765070-581b-41e1-b157-44e1c64b83d9" type="shot" media-type="9" vam_state="8" audio_tracks="2" veil_track_count="0" video_tracks="2" alpha_track_count="0" sort_on_text="4" created_for_layer="5" visible="1" still_image_tracks="0" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_2" name="DeckLink Mini Recorder_2" video_tracks="1" audio_tracks="1" square_pixel_height="1080" square_pixel_width="1920" visible="1" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" />
+		<asset name="BOARD" unique_id="b54645ad-bd7a-4a4d-9811-1b3949265a10_shot" type="shot" media-type="9" vam_state="14" veil_track_count="0" audio_tracks="3" video_tracks="3" sort_on_text="2" alpha_track_count="0" created_for_layer="5" visible="1" still_image_tracks="0" />
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="DeckLink Mini Recorder_3" name="DeckLink Mini Recorder_3" video_tracks="1" audio_tracks="1" sourceGUID="F5568E19-5437-4088-8EAD-F1A9813CA4DD" visible="1" square_pixel_width="1920" square_pixel_height="1080" />
+		<asset name="PROF" unique_id="871f6f0d-bbd6-442d-b2b8-dfd36b6ea953_shot" type="shot" media-type="9" vam_state="8" sort_on_text="3" alpha_track_count="0" audio_tracks="1" video_tracks="1" still_image_tracks="0" created_for_layer="5" visible="1" veil_track_count="0" />
+		<asset name="Local Desktop Presenter 1" unique_id="b171e13f-275d-42d1-97bd-6dc989a93735_shot" type="shot" media-type="9" vam_state="8" audio_tracks="2" sort_on_text="5" video_tracks="2" still_image_tracks="0" veil_track_count="0" created_for_layer="5" visible="1" alpha_track_count="0" />
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="DeckLink Mini Recorder_2" chroma_config_id="589" timestamp="150" />
+		<chroma_key_configuration unique_id="Intensity Pro_1" chroma_config_id="590" timestamp="30" />
+		<chroma_key_configuration unique_id="pc-capture~pc-capture-2" chroma_config_id="591" timestamp="80" />
+		<chroma_key_configuration unique_id="B.jpg" chroma_config_id="592" />
+		<chroma_key_configuration unique_id="DeckLink Mini Recorder_3" chroma_config_id="593" />
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="8c46ae8b-1984-4db4-834b-0ce99b64b6ac_shot" />
+		<shot event_type="2" unique_id="40935058-c107-4163-89a9-04a1f62487b5_shot" />
+		<shot event_type="2" unique_id="749afe53-6fe9-4682-ab1d-1cacd185cf0c_shot" />
+		<shot event_type="2" unique_id="2ca7d0ed-acf5-4210-96cc-66a15b1171cb_shot" />
+		<shot event_type="2" unique_id="424340f6-92a6-41d7-a7b8-ac88767acfd6_shot" />
+		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="ea48db98-d1e3-4be7-b391-3f3075b10ecc_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_pos="-1.76531,0.855" ro_user_scale="0.64375,0.64375" obj_scale="0.509635,0.64375" unique_id="DeckLink Mini Recorder_2" obj_crop_rect="200,0,200,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" play_flags="6" default_action="2" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" play_flags="6" default_action="2" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad" template_tag="2">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" obj_scale="0.558783,0.56268" ro_user_scale="0.652593,0.652593" pos_from_virtual_set="-1.7,0" scale_from_virtual_set="0.44,0.44" obj_pos="1.58242,-1.05" unique_id="pc-capture~pc-capture-2" obj_crop_rect="115,62,115,62">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="B8E42E5F-3358-4F08-82BE-DF77650D344B" virtualsetzoom="0" unique_id="8e765070-581b-41e1-b157-44e1c64b83d9">
+			<event event_type="4" zorder="5" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" obj_scale="0.541667,1" ro_respect_aspect_ratio="1" obj_rot_off="0.9,0" obj_pos="2.46857,0.0375" unique_id="DeckLink Mini Recorder_2" obj_crop_rect="680,0,200,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" default_action="2" play_flags="6" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad" template_tag="2">
+				<event event_type="2" channel_id="1" obj_scale="0.695703,0.700556" obj_crop_rect="115,62,115,62" obj_pos="-1.078,0.718667" pos_from_virtual_set="-1.7,0" scale_from_virtual_set="0.44,0.44" ro_user_scale="0.818167,0.8125" unique_id="pc-capture~pc-capture-2" ro_respect_aspect_ratio="1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="b54645ad-bd7a-4a4d-9811-1b3949265a10_shot" virtualsetzoom="0">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="Intensity Pro_1" volume="0" obj_scale="1,0.548037" obj_crop_rect="150,180,440,490" obj_rot_off="-0.784962,0.994486" ro_user_scale="1.44361,1.44361" obj_pos="0.784962,-0.994486">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" default_action="2" play_flags="6" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" default_action="2" play_flags="6" />
+				</event>
+			</event>
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" obj_scale="0.84375,1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2" obj_trans="0" obj_crop_rect="0,0,300,0" obj_rot_off="-0.5625,0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="pc-capture~pc-capture-2" obj_trans="0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="871f6f0d-bbd6-442d-b2b8-dfd36b6ea953_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" default_action="2" play_flags="6" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" default_action="2" play_flags="6" ro_playhead="0" />
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="b171e13f-275d-42d1-97bd-6dc989a93735_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="DeckLink Mini Recorder_2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" ro_playhead="0" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" ro_playhead="0" />
+				</event>
+			</event>
+			<event event_type="4" zorder="10" unique_id="one_quad" template_tag="1">
+				<event event_type="2" channel_id="1" ro_respect_aspect_ratio="1" unique_id="pc-capture~pc-capture-2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375" play_flags="6" default_action="2" />
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" play_flags="6" default_action="2" />
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
